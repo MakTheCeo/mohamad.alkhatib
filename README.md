@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 I’m currently working on learning operational management at Bilkent University
+🔭 I’m currently Studying Operational Management at Bilkent University
 
-🌱 I’m currently learning project management and system optimization
+🌱 I’m interested in project management and system optimization
 
 💬 Ask me about automations, system efficiencies, and anything related to Python
 
